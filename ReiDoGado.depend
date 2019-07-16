@@ -1,0 +1,450 @@
+# depslib dependency file v1.0
+1557964040 source:/home/fls/CG/ReiDoGado/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+
+1557962511 /home/fls/CG/ReiDoGado/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557962525 /home/fls/CG/ReiDoGado/glmint.h
+
+1557962391 /home/fls/CG/ReiDoGado/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557962451 /home/fls/CG/ReiDoGado/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1557961869 source:/home/fls/CG/ReiDoGado/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557962391 source:/home/fls/CG/ReiDoGado/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557962451 source:/home/fls/CG/ReiDoGado/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1557961868 source:/home/fls/CG/ReiDoGadov5/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557962510 /home/fls/CG/ReiDoGadov5/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557962524 /home/fls/CG/ReiDoGadov5/glmint.h
+
+1557962390 source:/home/fls/CG/ReiDoGadov5/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557962450 source:/home/fls/CG/ReiDoGadov5/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1558570384 source:/home/fls/CG/ReiDoGadov5/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+
+1557951068 source:/home/fls/CG/ReiDoGadov6 (1)/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov6 (1)/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov6 (1)/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov6 (1)/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov6 (1)/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1558657765 source:/home/fls/CG/ReiDoGadov6 (1)/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+
+1557951068 source:/home/fls/CG/ReiDoGadov7/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov7/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov7/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov7/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov7/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1559052250 source:/home/fls/CG/ReiDoGadov7/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+
+1557951068 source:/home/fls/CG/ReiDoGadov8/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov8/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov8/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov8/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov8/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1559413936 source:/home/fls/CG/ReiDoGadov8/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+
+1557951068 source:/home/fls/CG/ReiDoGadov9/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov9/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov9/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov9/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov9/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1559742017 source:/home/fls/CG/ReiDoGadov9/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+
+1557951068 source:/home/fls/CG/ReiDoGadov10/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov10/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov10/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov10/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov10/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1559780211 source:/home/fls/CG/ReiDoGadov10/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1557951068 source:/home/fls/CG/ReiDoGadov11/glm.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	"glm.h"
+	"glmint.h"
+
+1557951710 /home/fls/CG/ReiDoGadov11/glm.h
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1557951724 /home/fls/CG/ReiDoGadov11/glmint.h
+
+1557951590 source:/home/fls/CG/ReiDoGadov11/glm_util.c
+	"config.h"
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<stdio.h>
+	"glm.h"
+	"glmint.h"
+
+1557951650 source:/home/fls/CG/ReiDoGadov11/glmimg.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<math.h>
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	"glm.h"
+	"glmint.h"
+	"SOIL/SOIL.h"
+
+1559780211 source:/home/fls/CG/ReiDoGadov11/main.c
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<SOIL/SOIL.h>
+	<math.h>
+	"glm.h"
+	"glmint.h"
+	<stdio.h>
+	<math.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
